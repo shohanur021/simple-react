@@ -1,0 +1,118 @@
+[{
+    "id": 1,
+    "pic": "https://image.crictracker.com/wp-content/uploads/2019/10/Shakib-Al-Hasan-1-1.jpg",
+    "name": "Shakib Al Hasan",
+    "age": 34,
+    "playingRole": "Allrounder",
+    "playingStyle": "Left-hand bat",
+    "totalPlayed": 27,
+    "salary": 400000 
+  }, {
+    "id": 2,
+    "pic": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+    "name": "Mushfiqur Rahim",
+    "age": 32,
+    "playingRole": "Wicketkeeper batsman",
+    "playingStyle": "Right-hand bat",
+    "totalPlayed": 30,
+    "salary": 400000
+  }, {
+    "id": 3,
+    "pic": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+    "name": "Tamim Iqbal",
+    "age": 32,
+    "playingRole": "Opening batsman",
+    "playingStyle": "Left-hand bat",
+    "totalPlayed": 28,
+    "salary": 400000
+  }, {
+    "id": 4,
+    "pic": "https://cricketnlive.com/wp-content/uploads/2020/11/76356800.jpg",
+    "name": "Mahmudullah Riyad",
+    "age": 35,
+    "playingRole": "Allrounder",
+    "playingStyle": "Right-hand bat",
+    "totalPlayed": 26,
+    "salary": 400000
+  }, {
+    "id": 5,
+    "pic": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Imrul%20Kayes.ashx",
+    "name": "Imrul Kayes",
+    "age": 34,
+    "playingRole": "Batsman",
+    "playingStyle": "Left Handed Bat",
+    "totalPlayed": 14,
+    "salary": 300000
+  }, {
+    "id": 6,
+    "pic": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170922/rubel-hossain.jpg",
+    "name": "Rubel Hossain",
+    "age": 31,
+    "playingRole": "Bowler",
+    "playingStyle": "Right Handed Bat",
+    "totalPlayed": 28,
+    "salary": 300000
+  }, {
+    "id": 7,
+    "pic": "https://www.mykhel.com/thumb/247x100x233/cricket/players/5/7455.jpg",
+    "name": "Taijul Islam",
+    "age": 29,
+    "playingRole": "Bowler",
+    "playingStyle": "Left Handed Bat",
+    "totalPlayed": 2,
+    "salary": 200000
+  }, {
+    "id": 8,
+    "pic": "https://resources.pulse.icc-cricket.com/players/284/1597.png",
+    "name": "Mehidy Hasan",
+    "age": 24,
+    "playingRole": "Bowling Allrounder",
+    "playingStyle": "Right Handed Bat",
+    "totalPlayed": 13,
+    "salary": 200000
+  }, {
+    "id": 9,
+    "pic": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg",
+    "name": "Liton Das",
+    "age": 27,
+    "playingRole": "WK-Batsman",
+    "playingStyle": "Right Handed Bat",
+    "totalPlayed": 32,
+    "salary": 200000
+  }, {
+    "id": 10,
+    "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvFet3s3RE7q4KuH6NF7JIZrXc37l4CPgpwJXXHBAlQmClQui_Gd1ApOV4e_k1B-pc6o&usqp=CAU",
+    "name": "Mominul Haque",
+    "age": 30,
+    "playingRole": "Batsman",
+    "playingStyle": "Left Handed Bat",
+    "totalPlayed": 6,
+    "salary": 200000
+  }, {
+    "id": 11,
+    "pic": "https://i.cricketcb.com/stats/img/faceImages/8535.jpg",
+    "name": "Abu Hider Rony",
+    "age": 25,
+    "playingRole": "Bowling Allrounder",
+    "playingStyle": "Right Handed Bat",
+    "totalPlayed": 13,
+    "salary": 100000
+  }, {
+    "id": 12,
+    "pic": "https://resources.pulse.icc-cricket.com/players/284/2915.png",
+    "name": "Mohammad Saifuddin",
+    "age": 25,
+    "playingRole": "Batting Allrounder",
+    "playingStyle": "Left Handed Bat",
+    "totalPlayed": 17,
+    "salary": 100000
+  }, {
+    "id": 13,
+    "pic": "https://cdn.wisden.com/wp-content/uploads/2018/05/GettyImages-902064996-e1527263746900.jpg",
+    "name": "Nayeem Hasan",
+    "age": 21,
+    "playingRole": "Bowler",
+    "playingStyle": "Right Handed Bat",
+    "totalPlayed": 0,
+    "salary": 100000
+  }]

@@ -1,0 +1,23 @@
+.plyerPicture{
+    width:150px;
+    height:180px;
+    margin:auto 0;
+    margin-right: 40px;
+}
+.showPlayersInfo{
+    display:flex;
+    border: 1px solid #888888;
+    box-shadow: 5px 5px 12px #888888;
+    padding: 10px;
+    margin:15px;
+    justify-content: center;
+}
+.addButton{
+    color: black;
+    background-color: rgb(235, 173, 57);
+    width:110px;
+    height:28px;
+    font-weight: bold;
+    border:1px solid rgb(235, 173, 57);
+    border-radius: 4px;
+}

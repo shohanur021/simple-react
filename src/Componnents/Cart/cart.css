@@ -1,0 +1,11 @@
+.cartStyle{
+    border:2px solid rgb(8, 247, 175);
+    margin:15px;
+    padding:10px;
+    width:35%;
+    height: 480px;
+}
+.cartStyle h2{
+    text-align:center;
+    color: rgb(155, 78, 226);
+}
